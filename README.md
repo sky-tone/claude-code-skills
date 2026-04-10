@@ -82,4 +82,5 @@ npm install -g https://mirrors.cloud.tencent.com/npm/@anthropic-ai/claude-code/-
 ---
 
 ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=sky-tone/claude-code-skills&type=Date)](https://star-history.com/#sky-tone/claude-code-skills&Date)
 
